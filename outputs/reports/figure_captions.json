@@ -1,0 +1,6 @@
+{
+  "fig1": "Figure 1: Monthly average PM2.5 (\u00b5g/m\u00b3) for six Pakistani cities in 2024. Lahore and Faisalabad show highest winter peaks, consistent with crop burning and cold inversions trapping pollutants near the surface. All cities exceed the WHO annual guideline of 15 \u00b5g/m\u00b3 for most of the year.",
+  "fig2": "Figure 2: Stacked bar chart showing how many hours each city spent in each AQI category during 2024. Karachi and Islamabad have more 'Low' and 'Moderate' hours; Faisalabad and Lahore are dominated by 'High' and 'Very High' readings.",
+  "fig3": "Figure 3: Average PM2.5 by hour of day, showing a clear diurnal cycle. Early-morning peaks (02:00\u201306:00) reflect nocturnal boundary-layer compression; midday troughs occur as the sun heats the surface and ventilation improves. Lahore consistently shows the highest concentrations across all hours.",
+  "fig4": "Figure 4: Pearson correlation matrix for all numeric air-quality variables. PM2.5 and PM10 are highly correlated (r\u22480.86), indicating similar combustion and dust sources. Ozone shows negative correlations with traffic pollutants \u2014 consistent with NO destroying ground-level ozone."
+}

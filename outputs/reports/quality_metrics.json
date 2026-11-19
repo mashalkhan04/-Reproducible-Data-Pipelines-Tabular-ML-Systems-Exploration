@@ -1,0 +1,13 @@
+{
+  "raw_rows": 52704,
+  "cleaned_rows": 52704,
+  "rows_removed": 0,
+  "raw_missing_total": 0,
+  "cleaned_missing_total": 0,
+  "raw_duplicates": 0,
+  "cleaned_duplicates": 0,
+  "raw_outliers_total": 29788,
+  "coordinate_errors_fixed": 1,
+  "new_feature_columns": 6,
+  "validation_pass_rate_pct": 100.0
+}

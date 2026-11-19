@@ -1,0 +1,17 @@
+season,time_of_day,mean_pm2_5,mean_aqi,count
+Autumn,Afternoon,42.18,84.19,3276
+Autumn,Evening,63.62,73.4,3276
+Autumn,Morning,49.55,65.48,3276
+Autumn,Night,53.9,64.56,3276
+Spring,Afternoon,24.13,76.18,3312
+Spring,Evening,34.49,56.7,3312
+Spring,Morning,29.48,55.98,3312
+Spring,Night,29.84,48.93,3312
+Summer,Afternoon,34.34,86.84,3312
+Summer,Evening,43.27,61.58,3312
+Summer,Morning,35.28,62.36,3312
+Summer,Night,38.66,55.16,3312
+Winter,Afternoon,51.2,75.19,3276
+Winter,Evening,79.66,84.87,3276
+Winter,Morning,65.77,73.87,3276
+Winter,Night,68.29,77.45,3276

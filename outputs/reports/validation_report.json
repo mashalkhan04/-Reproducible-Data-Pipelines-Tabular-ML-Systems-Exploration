@@ -1,0 +1,22 @@
+{
+  "passed": [
+    "no_nulls_core",
+    "non_negative_pollutants",
+    "pm_relationship",
+    "timestamp_range",
+    "city_set",
+    "aqi_category_complete",
+    "coordinate_uniqueness"
+  ],
+  "failed": [],
+  "details": {
+    "no_nulls_core": "PASS",
+    "non_negative_pollutants": "PASS",
+    "pm_relationship": "PASS",
+    "timestamp_range": "PASS",
+    "city_set": "PASS",
+    "aqi_category_complete": "PASS",
+    "coordinate_uniqueness": "PASS"
+  },
+  "pass_rate_pct": 100.0
+}

@@ -1,0 +1,49 @@
+# ── Secrets & environment ──
+.env
+.env.*
+*.key
+*.pem
+
+# ── Python ────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+*.whl
+
+# ── Virtual environments ──
+venv/
+.venv/
+env/
+ENV/
+
+# ── Jupyter ───────────────
+.ipynb_checkpoints/
+*.ipynb~
+
+# ── Testing & coverage ────
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+*.lcov
+
+# ── IDEs ─────────────────
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# ── OS ───────────────────
+.DS_Store
+Thumbs.db
+
+# ── Project outputs ──────
+# (keep outputs/ tracked for reproducibility evidence in submission)
+# models/ tracked too — kept small by joblib compression

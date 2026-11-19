@@ -1,0 +1,17 @@
+{
+  "total_rows": 52704,
+  "total_columns": 13,
+  "cities": [
+    "Lahore",
+    "Karachi",
+    "Islamabad",
+    "Faisalabad",
+    "Multan",
+    "Peshawar"
+  ],
+  "date_range_raw": [
+    "2024-01-01T00:00",
+    "2024-12-31T23:00"
+  ],
+  "issues_count": 15
+}

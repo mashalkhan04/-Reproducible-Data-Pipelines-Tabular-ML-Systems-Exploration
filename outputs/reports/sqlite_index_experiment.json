@@ -1,0 +1,14 @@
+{
+  "without_index_ms": 67.321,
+  "with_index_ms": 16.506,
+  "speedup_factor": 4.08,
+  "explain_no_index": [
+    "(7, 0, 216, 'SCAN air_quality')",
+    "(9, 0, 0, 'USE TEMP B-TREE FOR GROUP BY')",
+    "(68, 0, 0, 'USE TEMP B-TREE FOR ORDER BY')"
+  ],
+  "explain_with_index": [
+    "(8, 0, 224, 'SCAN air_quality USING INDEX idx_city_season')",
+    "(57, 0, 0, 'USE TEMP B-TREE FOR ORDER BY')"
+  ]
+}
